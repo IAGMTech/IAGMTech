@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IAGMTech
 - 👀 I’m interested in Apps to be used in Power Systems and simulations soft
-- 🌱 I’m currently learning PHP 
-- 
+- 🌱 I’m currently learning PHP and Deep learning. 
+
 
 
 <!---
